@@ -1,0 +1,21 @@
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sujanrajtuladhar/screen-pet.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd screen-pet
+   ```
+
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+   ```bash
+   npm start
+   ```
+
+5. Open your browser and go to `http://localhost:3000` to view the application., branch: add-setup-docs
